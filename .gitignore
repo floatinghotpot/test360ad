@@ -1,0 +1,16 @@
+# ignore
+# www.default
+locall.properties
+.classpath
+console.log
+.DS_Store
+xcuserdata
+platforms/android/gen
+platforms/android/bin
+platforms/android/assets/www
+platforms/android/ant-build
+platforms/android/ant-gen
+platforms/android/CordovaLib/ant-build
+platforms/android/CordovaLib/bin/
+platforms/ios/build
+platforms/ios/www
